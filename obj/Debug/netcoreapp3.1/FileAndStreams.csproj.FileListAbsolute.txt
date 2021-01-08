@@ -1,0 +1,13 @@
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams.deps.json
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams.runtimeconfig.json
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams.runtimeconfig.dev.json
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams.dll
+/home/octavian/Desktop/Intern/FileAndStreams/bin/Debug/netcoreapp3.1/FileAndStreams.pdb
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.csprojAssemblyReference.cache
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.AssemblyInfoInputs.cache
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.AssemblyInfo.cs
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.csproj.CoreCompileInputs.cache
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.dll
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.pdb
+/home/octavian/Desktop/Intern/FileAndStreams/obj/Debug/netcoreapp3.1/FileAndStreams.genruntimeconfig.cache

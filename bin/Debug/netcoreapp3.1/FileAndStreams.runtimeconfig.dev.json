@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/octavian/.dotnet/store/|arch|/|tfm|",
+      "/home/octavian/.nuget/packages"
+    ]
+  }
+}
